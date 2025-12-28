@@ -1,0 +1,85 @@
+[14:21:04] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[14:21:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:21:12] [ServerMain/INFO]: Loaded 1461 recipes
+[14:21:12] [ServerMain/INFO]: Loaded 1574 advancements
+[14:21:13] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[14:21:13] [Server thread/INFO]: Loading properties
+[14:21:13] [Server thread/INFO]: Default game type: SURVIVAL
+[14:21:13] [Server thread/INFO]: Generating keypair
+[14:21:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:21:13] [Server thread/INFO]: Using default channel type
+[14:21:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:21:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:21:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:21:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:21:13] [Server thread/INFO]: Preparing level "world"
+[14:21:14] [Server thread/INFO]: Loading 0 persistent chunks...
+[14:21:14] [Server thread/INFO]: Preparing spawn area: 100%
+[14:21:14] [Server thread/INFO]: Time elapsed: 12 ms
+[14:21:14] [Server thread/INFO]: Done (0.356s)! For help, type "help"
+[14:21:22] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to api.minecraftservices.com
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111) ~[authlib-7.0.61.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-7.0.61.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-7.0.61.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-7.0.61.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.net.UnknownHostException: api.minecraftservices.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567) ~[?:?]
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.base/java.net.Socket.connect(Socket.java:751) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304) ~[?:?]
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:377) ~[?:?]
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1298) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1139) ~[?:?]
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615) ~[?:?]
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82) ~[authlib-7.0.61.jar:?]
+	... 9 more
+[14:21:22] [Server thread/INFO]: BifrostKing[/127.0.0.1:49171] logged in with entity id 366 at (164.30000001192093, 67.5625, -168.69999998807907)
+[14:21:22] [Server thread/INFO]: BifrostKing joined the game
+[14:21:59] [Server thread/INFO]: Villager cyx['Fisherman'/531, l='ServerLevel[PalWorld]', x=135.32, y=65.00, z=-167.37] died, message: 'Fisherman was slain by BifrostKing'
+[14:37:24] [Server thread/INFO]: BifrostKing lost connection: Disconnected
+[14:37:24] [Server thread/INFO]: BifrostKing left the game
+[14:38:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:29:02] [Server thread/INFO]: BifrostKing[/127.0.0.1:64418] logged in with entity id 7279 at (165.49944519890246, 70.0, -155.23750001192093)
+[16:29:02] [Server thread/INFO]: BifrostKing joined the game
+[16:44:23] [Server thread/INFO]: OrangeBoy[/10.177.98.227:50417] logged in with entity id 13876 at (165.35186714473016, 64.0, -216.38567972304747)
+[16:44:23] [Server thread/INFO]: OrangeBoy joined the game
+[16:45:53] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
+[16:45:53] [Server thread/INFO]: OrangeBoy left the game
+[16:47:55] [Server thread/INFO]: OrangeBoy[/10.177.98.227:50703] logged in with entity id 15296 at (167.5, 67.1875, -168.5)
+[16:47:55] [Server thread/INFO]: OrangeBoy joined the game
+[16:57:43] [Server thread/WARN]: OrangeBoy was kicked for floating too long!
+[16:57:43] [Server thread/INFO]: OrangeBoy lost connection: Flying is not enabled on this server
+[16:57:43] [Server thread/INFO]: OrangeBoy left the game
+[16:58:19] [Server thread/INFO]: OrangeBoy[/10.177.98.227:51345] logged in with entity id 19189 at (160.23439211276906, 67.00133597911214, -171.38730486827495)
+[16:58:19] [Server thread/INFO]: OrangeBoy joined the game
+[16:59:20] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
+[16:59:20] [Server thread/INFO]: OrangeBoy left the game
+[17:04:16] [Server thread/INFO]: OrangeBoy[/10.177.98.227:4111] logged in with entity id 21575 at (160.23439211276906, 66.0, -171.38730486827495)
+[17:04:16] [Server thread/INFO]: OrangeBoy joined the game
+[17:06:30] [Server thread/WARN]: OrangeBoy moved too quickly! -8.979880303947482,-2.0013359791121417,4.250056655791894
+[17:12:09] [Server thread/INFO]: Stopping server
+[17:12:09] [Server thread/INFO]: Saving players
+[17:12:09] [Server thread/INFO]: Saving worlds
+[17:12:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:overworld
+[17:12:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:the_end
+[17:12:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:the_nether
+[17:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
