@@ -757,16 +757,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-12-07 19:54:20 +0530",
-      "apple": "2025-12-14 17:57:53 +0530",
       "bread": "2025-12-25 20:15:37 +0530",
-      "cooked_chicken": "2025-12-10 21:49:00 +0530",
+      "rotten_flesh": "2026-01-01 23:22:26 +0530",
       "cooked_mutton": "2025-12-20 20:42:06 +0530",
-      "potato": "2025-12-10 21:36:11 +0530",
       "cooked_beef": "2025-12-08 22:07:38 +0530",
       "baked_potato": "2025-12-20 18:56:29 +0530",
       "melon_slice": "2025-12-25 21:05:57 +0530",
       "porkchop": "2025-12-14 17:35:21 +0530",
       "golden_carrot": "2025-12-23 19:41:17 +0530",
+      "apple": "2025-12-14 17:57:53 +0530",
+      "cooked_chicken": "2025-12-10 21:49:00 +0530",
+      "potato": "2025-12-10 21:36:11 +0530",
       "carrot": "2025-12-20 20:55:06 +0530"
     },
     "done": false
@@ -1366,7 +1367,8 @@
       "minecraft:zombie": "2025-12-08 21:33:10 +0530",
       "minecraft:creeper": "2025-12-10 21:18:43 +0530",
       "minecraft:drowned": "2025-12-20 20:38:36 +0530",
-      "minecraft:zombie_villager": "2025-12-14 21:57:45 +0530"
+      "minecraft:zombie_villager": "2025-12-14 21:57:45 +0530",
+      "minecraft:slime": "2026-01-01 23:54:21 +0530"
     },
     "done": false
   },
@@ -3679,6 +3681,114 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-12-28 16:51:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-12-31 14:52:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-12-31 14:52:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-12-31 14:52:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-12-31 14:52:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-12-31 14:52:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-12-31 14:52:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-12-31 14:52:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-12-31 14:52:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-12-31 14:53:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-12-31 14:53:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-12-31 15:03:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
+    "criteria": {
+      "has_tuff_brick_slab": "2025-12-31 15:25:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-12-31 15:46:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2026-01-02 00:15:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2026-01-02 00:19:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2026-01-01 23:50:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2026-01-02 00:48:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-01-02 00:48:11 +0530"
     },
     "done": true
   },
