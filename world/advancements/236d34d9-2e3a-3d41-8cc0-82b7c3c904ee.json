@@ -768,6 +768,7 @@
       "apple": "2025-12-14 17:57:53 +0530",
       "cooked_chicken": "2025-12-10 21:49:00 +0530",
       "potato": "2025-12-10 21:36:11 +0530",
+      "cooked_cod": "2026-01-02 21:07:45 +0530",
       "carrot": "2025-12-20 20:55:06 +0530"
     },
     "done": false
@@ -1357,6 +1358,7 @@
       "minecraft:skeleton": "2025-12-09 21:29:58 +0530",
       "minecraft:zombified_piglin": "2025-12-23 19:40:24 +0530",
       "minecraft:witch": "2025-12-10 21:20:50 +0530",
+      "minecraft:hoglin": "2026-01-02 21:17:02 +0530",
       "minecraft:cave_spider": "2025-12-21 22:11:35 +0530",
       "minecraft:piglin": "2025-12-24 21:14:52 +0530",
       "minecraft:breeze": "2025-12-21 22:04:22 +0530",
@@ -2982,6 +2984,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2026-01-02 21:08:26 +0530",
       "minecraft:nether_wastes": "2025-12-22 21:26:02 +0530",
       "minecraft:soul_sand_valley": "2025-12-24 21:06:55 +0530",
       "minecraft:basalt_deltas": "2025-12-22 21:29:10 +0530"
@@ -3762,6 +3765,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2026-01-01 23:50:22 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2026-01-02 00:15:58 +0530"
@@ -3774,12 +3783,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/summon_iron_golem": {
-    "criteria": {
-      "summoned_golem": "2026-01-01 23:50:22 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
     "criteria": {
       "has_flow_armor_trim_smithing_template": "2026-01-02 00:48:11 +0530"
@@ -3789,6 +3792,72 @@
   "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2026-01-02 00:48:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2026-01-02 21:24:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-01-02 22:21:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-01-02 22:27:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper": {
+    "criteria": {
+      "has_waxed_cut_copper_slab": "2026-01-02 22:21:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-01-02 22:21:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-01-02 22:21:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-01-02 21:24:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-01-02 22:27:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-01-02 22:21:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-01-02 22:21:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2026-01-02 21:22:26 +0530"
     },
     "done": true
   },

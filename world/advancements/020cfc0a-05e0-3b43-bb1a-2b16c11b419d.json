@@ -3642,6 +3642,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2026-01-02 23:00:33 +0530",
       "minecraft:nether_wastes": "2025-12-22 21:25:58 +0530",
       "minecraft:soul_sand_valley": "2025-12-24 21:05:30 +0530",
       "minecraft:basalt_deltas": "2025-12-22 21:29:31 +0530"
@@ -4185,6 +4186,30 @@
   "minecraft:recipes/building_blocks/pale_oak_wood": {
     "criteria": {
       "has_log": "2026-01-02 18:06:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2026-01-02 23:14:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-01-02 21:49:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-01-02 23:14:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-01-02 21:49:14 +0530"
     },
     "done": true
   },
