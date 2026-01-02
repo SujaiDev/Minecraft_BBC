@@ -4134,24 +4134,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2026-01-02 00:49:21 +0530"
-    },
-    "done": true
-  },
-  "minecraft:adventure/revaulting": {
-    "criteria": {
-      "revaulting": "2026-01-02 00:20:30 +0530"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2026-01-02 00:19:34 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2026-01-01 22:42:53 +0530"
@@ -4173,6 +4155,36 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2026-01-02 00:19:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2026-01-02 00:19:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2026-01-02 00:20:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2026-01-02 00:49:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2026-01-02 18:06:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2026-01-02 18:06:32 +0530"
     },
     "done": true
   },

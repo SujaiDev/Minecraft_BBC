@@ -1,11 +1,41 @@
-[00:09:56] [Server thread/INFO]: joe was doomed to fall by Cave Spider
-[00:19:00] [Server thread/INFO]: OrangeBoy has reached the goal [Revaulting]
-[00:19:34] [Server thread/INFO]: BifrostKing has made the advancement [Cover Me with Diamonds]
-[00:20:30] [Server thread/INFO]: BifrostKing has reached the goal [Revaulting]
-[00:21:14] [Server thread/INFO]: joe has reached the goal [Revaulting]
-[00:58:45] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
-[00:58:45] [Server thread/INFO]: OrangeBoy left the game
-[00:58:48] [Server thread/INFO]: joe lost connection: Disconnected
-[00:58:48] [Server thread/INFO]: joe left the game
-[01:54:05] [Server thread/INFO]: BifrostKing lost connection: Disconnected
-[01:54:05] [Server thread/INFO]: BifrostKing left the game
+[17:27:37] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[17:27:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:27:44] [ServerMain/INFO]: Loaded 1461 recipes
+[17:27:44] [ServerMain/INFO]: Loaded 1574 advancements
+[17:27:45] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[17:27:45] [Server thread/INFO]: Loading properties
+[17:27:45] [Server thread/INFO]: Default game type: SURVIVAL
+[17:27:45] [Server thread/INFO]: Generating keypair
+[17:27:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:27:45] [Server thread/INFO]: Using default channel type
+[17:27:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:27:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:27:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:27:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:27:46] [Server thread/INFO]: Preparing level "world"
+[17:27:46] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:27:46] [Server thread/INFO]: Preparing spawn area: 100%
+[17:27:46] [Server thread/INFO]: Time elapsed: 138 ms
+[17:27:46] [Server thread/INFO]: Done (0.512s)! For help, type "help"
+[17:28:32] [Server thread/INFO]: BifrostKing[/127.0.0.1:54291] logged in with entity id 326 at (168.5, 67.0625, -168.5)
+[17:28:32] [Server thread/INFO]: BifrostKing joined the game
+[17:28:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[17:41:48] [Server thread/INFO]: Villager cyx['Villager'/30, l='ServerLevel[PalWorld]', x=146.30, y=60.00, z=-115.70] died, message: 'Villager was squished too much'
+[18:05:24] [Server thread/INFO]: Villager cyx['Villager'/50, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.30] died, message: 'Villager was squished too much'
+[18:05:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11656ms or 233 ticks behind
+[18:12:55] [Server thread/INFO]: Villager cyx['Villager'/58, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.70] died, message: 'Villager was squished too much'
+[18:16:22] [Server thread/INFO]: Villager cyx['Villager'/56, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.70] died, message: 'Villager was squished too much'
+[18:16:43] [Server thread/INFO]: Villager cyx['Villager'/54, l='ServerLevel[PalWorld]', x=146.30, y=60.00, z=-115.70] died, message: 'Villager was squished too much'
+[18:18:50] [Server thread/INFO]: BifrostKing lost connection: Disconnected
+[18:18:50] [Server thread/INFO]: BifrostKing left the game
+[18:19:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:21:02] [Server thread/INFO]: Stopping server
+[18:21:02] [Server thread/INFO]: Saving players
+[18:21:02] [Server thread/INFO]: Saving worlds
+[18:21:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:overworld
+[18:21:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:the_end
+[18:21:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:the_nether
+[18:21:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:21:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:21:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:21:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
