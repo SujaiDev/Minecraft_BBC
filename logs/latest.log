@@ -1,29 +1,24 @@
-[00:04:07] [Server thread/WARN]: OrangeBoy moved too quickly! 9.058643537814419,3.0013359791121417,3.2357187083455585
-[00:06:26] [Server thread/INFO]: BifrostKing was doomed to fall by Hoglin
-[00:08:27] [Server thread/INFO]: OrangeBoy has reached the goal [Postmortal]
-[00:36:49] [Server thread/INFO]: BifrostKing has made the advancement [A Terrible Fortress]
-[00:36:59] [Server thread/INFO]: joe has made the advancement [A Terrible Fortress]
-[00:37:05] [Server thread/INFO]: OrangeBoy has made the advancement [A Terrible Fortress]
-[00:44:19] [Server thread/INFO]: OrangeBoy has made the advancement [Spooky Scary Skeleton]
-[00:46:58] [Server thread/INFO]: BifrostKing has made the advancement [Into Fire]
-[00:47:19] [Server thread/INFO]: OrangeBoy has made the advancement [Into Fire]
-[00:49:07] [Server thread/INFO]: joe has made the advancement [Into Fire]
-[01:03:40] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
-[01:03:40] [Server thread/INFO]: OrangeBoy left the game
-[01:05:40] [Server thread/INFO]: BifrostKing has made the advancement [Local Brewery]
-[01:05:42] [Server thread/INFO]: joe has made the advancement [Local Brewery]
-[01:12:05] [Server thread/INFO]: joe lost connection: Disconnected
-[01:12:05] [Server thread/INFO]: joe left the game
-[01:12:52] [Server thread/INFO]: BifrostKing has made the advancement [Spooky Scary Skeleton]
-[01:13:12] [Server thread/INFO]: BifrostKing lost connection: Disconnected
-[01:13:12] [Server thread/INFO]: BifrostKing left the game
-[01:13:22] [Server thread/INFO]: Stopping server
-[01:13:22] [Server thread/INFO]: Saving players
-[01:13:22] [Server thread/INFO]: Saving worlds
-[01:13:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:overworld
-[01:13:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:the_nether
-[01:13:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:the_end
-[01:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:02:55] [Server thread/INFO]: joe was slain by Zombified Piglin
+[00:47:58] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
+[00:47:58] [Server thread/INFO]: OrangeBoy left the game
+[00:48:18] [Server thread/INFO]: joe lost connection: Disconnected
+[00:48:18] [Server thread/INFO]: joe left the game
+[01:02:15] [Server thread/INFO]: Villager cyx['Villager'/47619, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.30] died, message: 'Villager was squished too much'
+[01:28:28] [Server thread/INFO]: Villager cyx['Villager'/47606, l='ServerLevel[PalWorld]', x=146.30, y=60.00, z=-115.30] died, message: 'Villager was squished too much'
+[01:29:38] [Server thread/INFO]: Villager cyx['Villager'/47609, l='ServerLevel[PalWorld]', x=146.71, y=61.00, z=-115.30] died, message: 'Villager was squished too much'
+[01:29:38] [Server thread/INFO]: Villager cyx['Villager'/47612, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.30] died, message: 'Villager was squished too much'
+[01:45:53] [Server thread/INFO]: Villager cyx['Villager'/47613, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.30] died, message: 'Villager was squished too much'
+[01:45:53] [Server thread/INFO]: Villager cyx['Villager'/47604, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.30] died, message: 'Villager was squished too much'
+[01:47:13] [Server thread/INFO]: Villager cyx['Villager'/47611, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.30] died, message: 'Villager was squished too much'
+[01:58:33] [Server thread/INFO]: BifrostKing lost connection: Disconnected
+[01:58:33] [Server thread/INFO]: BifrostKing left the game
+[01:58:40] [Server thread/INFO]: Stopping server
+[01:58:40] [Server thread/INFO]: Saving players
+[01:58:40] [Server thread/INFO]: Saving worlds
+[01:58:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:overworld
+[01:58:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:the_end
+[01:58:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:the_nether
+[01:58:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:58:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:58:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:58:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
