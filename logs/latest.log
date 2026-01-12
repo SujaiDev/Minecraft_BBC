@@ -1,23 +1,13 @@
-[00:18:00] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
-[00:18:00] [Server thread/INFO]: OrangeBoy left the game
-[00:21:28] [Server thread/INFO]: Villager cyx['Villager'/53, l='ServerLevel[PalWorld]', x=146.30, y=60.00, z=-115.30] died, message: 'Villager was squished too much'
-[00:32:25] [Server thread/INFO]: Villager cyx['Villager'/56, l='ServerLevel[PalWorld]', x=146.90, y=61.00, z=-115.30] died, message: 'Villager was squished too much'
-[00:32:52] [Server thread/INFO]: Villager cyx['Villager'/52, l='ServerLevel[PalWorld]', x=146.30, y=60.00, z=-115.30] died, message: 'Villager was squished too much'
-[01:09:29] [Server thread/INFO]: Villager cyx['Villager'/63858, l='ServerLevel[PalWorld]', x=146.30, y=60.00, z=-115.30] died, message: 'Villager was squished too much'
-[01:09:54] [Server thread/INFO]: Villager cyx['Villager'/63863, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.30] died, message: 'Villager was squished too much'
-[01:10:42] [Server thread/INFO]: Villager cyx['Villager'/63854, l='ServerLevel[PalWorld]', x=146.30, y=60.00, z=-115.70] died, message: 'Villager was squished too much'
-[01:10:45] [Server thread/INFO]: Villager cyx['Villager'/63866, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.30] died, message: 'Villager was squished too much'
-[01:26:58] [Server thread/INFO]: joe lost connection: Disconnected
-[01:26:58] [Server thread/INFO]: joe left the game
-[01:44:54] [Server thread/INFO]: BifrostKing lost connection: Disconnected
-[01:44:54] [Server thread/INFO]: BifrostKing left the game
-[01:44:57] [Server thread/INFO]: Stopping server
-[01:44:57] [Server thread/INFO]: Saving players
-[01:44:57] [Server thread/INFO]: Saving worlds
-[01:44:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:overworld
-[01:44:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:the_end
-[01:44:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:the_nether
-[01:44:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:44:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:44:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:44:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:15] [Server thread/INFO]: BifrostKing[/127.0.0.1:57062] logged in with entity id 49355 at (170.69999998807907, 67.5625, -168.48890114291615)
+[00:01:15] [Server thread/INFO]: BifrostKing joined the game
+[00:36:45] [Server thread/INFO]: Villager cyx['Villager'/49055, l='ServerLevel[PalWorld]', x=146.81, y=61.00, z=-115.30] died, message: 'Villager was squished too much'
+[00:37:05] [Server thread/INFO]: Villager cyx['Villager'/49064, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.70] died, message: 'Villager was squished too much'
+[00:37:25] [Server thread/INFO]: Villager cyx['Villager'/49059, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.70] died, message: 'Villager was squished too much'
+[00:38:58] [Server thread/INFO]: Villager cyx['Villager'/49061, l='ServerLevel[PalWorld]', x=146.77, y=61.00, z=-115.30] died, message: 'Villager was squished too much'
+[00:39:17] [Server thread/INFO]: BifrostKing lost connection: Disconnected
+[00:39:17] [Server thread/INFO]: BifrostKing left the game
+[00:40:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:58:59] [Server thread/INFO]: BifrostKing[/127.0.0.1:50731] logged in with entity id 61857 at (168.5, 67.0625, -168.5)
+[00:58:59] [Server thread/INFO]: BifrostKing joined the game
+[01:18:11] [Server thread/INFO]: BifrostKing lost connection: Disconnected
+[01:18:11] [Server thread/INFO]: BifrostKing left the game
