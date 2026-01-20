@@ -1,4 +1,8 @@
-[12:30:08] [Server thread/INFO]: BifrostKing[/127.0.0.1:58711] logged in with entity id 62332 at (168.6984744040439, 67.0625, -166.6975925883871)
-[12:30:08] [Server thread/INFO]: BifrostKing joined the game
-[13:51:09] [Server thread/INFO]: BifrostKing lost connection: Disconnected
-[13:51:09] [Server thread/INFO]: BifrostKing left the game
+[00:06:05] [Server thread/INFO]: Villager cyx['Villager'/26517, l='ServerLevel[PalWorld]', x=146.85, y=61.00, z=-115.70] died, message: 'Villager was squished too much'
+[00:30:26] [Server thread/INFO]: BifrostKing has made the advancement [Crafting a New Look]
+[00:30:32] [Server thread/INFO]: joe has made the advancement [Crafting a New Look]
+[02:22:43] [Server thread/INFO]: joe lost connection: Disconnected
+[02:22:43] [Server thread/INFO]: joe left the game
+[02:23:19] [Server thread/INFO]: Villager cyx['Villager'/68428, l='ServerLevel[PalWorld]', x=146.87, y=61.00, z=-115.70] died, message: 'Villager was squished too much'
+[02:51:33] [Server thread/INFO]: BifrostKing lost connection: Disconnected
+[02:51:33] [Server thread/INFO]: BifrostKing left the game

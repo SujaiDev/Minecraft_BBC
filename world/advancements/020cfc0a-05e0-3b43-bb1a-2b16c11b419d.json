@@ -22,14 +22,18 @@
       "minecraft:ocean": "2025-12-07 13:58:56 +0530",
       "minecraft:jungle": "2025-12-25 20:34:46 +0530",
       "minecraft:cherry_grove": "2025-12-09 16:35:13 +0530",
+      "minecraft:sunflower_plains": "2026-01-19 21:45:18 +0530",
       "minecraft:birch_forest": "2025-12-07 12:01:54 +0530",
       "minecraft:windswept_hills": "2026-01-16 21:48:56 +0530",
       "minecraft:old_growth_spruce_taiga": "2025-12-26 21:07:25 +0530",
       "minecraft:bamboo_jungle": "2025-12-25 20:35:46 +0530",
+      "minecraft:windswept_savanna": "2026-01-19 21:54:57 +0530",
       "minecraft:deep_lukewarm_ocean": "2026-01-16 23:36:53 +0530",
       "minecraft:badlands": "2026-01-17 00:15:41 +0530",
+      "minecraft:flower_forest": "2026-01-19 21:44:16 +0530",
       "minecraft:beach": "2025-12-06 21:40:36 +0530",
       "minecraft:dark_forest": "2025-12-09 13:48:53 +0530",
+      "minecraft:mangrove_swamp": "2026-01-19 21:37:12 +0530",
       "minecraft:sparse_jungle": "2025-12-25 20:35:34 +0530",
       "minecraft:river": "2025-12-06 21:25:46 +0530",
       "minecraft:lukewarm_ocean": "2025-12-07 15:04:11 +0530",
@@ -5143,6 +5147,24 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_light_blue_wool": "2026-01-17 15:46:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-01-21 02:24:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:bolt_armor_trim_smithing_template_smithing_trim": "2026-01-21 00:30:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-01-21 02:24:04 +0530"
     },
     "done": true
   },
