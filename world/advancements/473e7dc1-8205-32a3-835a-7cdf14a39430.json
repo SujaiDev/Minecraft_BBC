@@ -907,6 +907,7 @@
       "minecraft:evoker": "2026-01-22 01:34:38 +0530",
       "minecraft:phantom": "2026-01-16 13:50:46 +0530",
       "minecraft:zombified_piglin": "2025-12-23 20:00:52 +0530",
+      "minecraft:witch": "2026-01-24 12:43:10 +0530",
       "minecraft:wither_skeleton": "2026-01-03 02:38:16 +0530",
       "minecraft:husk": "2026-01-17 00:13:09 +0530",
       "minecraft:cave_spider": "2025-12-26 22:12:39 +0530",
@@ -2122,7 +2123,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-12-20 20:36:51 +0530",
-      "minecraft:nautilus": "2026-01-22 20:53:33 +0530"
+      "minecraft:nautilus": "2026-01-22 20:53:33 +0530",
+      "minecraft:sheep": "2026-01-24 12:59:00 +0530"
     },
     "done": false
   },
@@ -4566,45 +4568,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2026-01-22 21:59:28 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2026-01-22 21:23:00 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2026-01-22 21:59:19 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
-    "criteria": {
-      "has_prismarine_bricks": "2026-01-22 21:59:09 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall": {
-    "criteria": {
-      "has_prismarine": "2026-01-22 21:59:28 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2026-01-22 21:59:28 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2026-01-22 21:59:09 +0530"
     },
     "done": true
   },
@@ -4620,21 +4586,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "has_dark_prismarine": "2026-01-22 21:59:19 +0530"
+      "has_prismarine_crystals": "2026-01-22 21:36:27 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
-      "has_prismarine": "2026-01-22 21:59:28 +0530"
+      "has_prismarine_bricks": "2026-01-22 21:59:09 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
-      "has_dark_prismarine": "2026-01-22 21:59:19 +0530"
+      "has_prismarine_brick": "2026-01-22 21:59:09 +0530"
     },
     "done": true
   },
@@ -4644,15 +4610,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
-      "has_prismarine": "2026-01-22 21:59:28 +0530"
+      "has_prismarine_bricks": "2026-01-22 21:59:09 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
-      "has_prismarine_crystals": "2026-01-22 21:36:27 +0530"
+      "has_dark_prismarine": "2026-01-22 21:59:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2026-01-22 21:59:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2026-01-22 21:59:19 +0530"
     },
     "done": true
   },
@@ -4662,15 +4640,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
-      "has_prismarine_bricks": "2026-01-22 21:59:09 +0530"
+      "has_prismarine": "2026-01-22 21:59:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2026-01-22 21:59:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2026-01-22 21:59:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2026-01-22 21:59:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2026-01-22 21:59:28 +0530"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2026-01-22 21:59:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2026-01-24 14:38:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2026-01-24 14:38:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2026-01-24 14:38:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2026-01-24 14:38:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2026-01-24 14:11:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2026-01-24 14:49:17 +0530"
     },
     "done": true
   },
