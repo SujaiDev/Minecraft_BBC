@@ -893,27 +893,29 @@
       "minecraft:pillager": "2025-12-22 22:20:23 +0530",
       "minecraft:blaze": "2026-01-06 00:46:22 +0530",
       "minecraft:skeleton": "2025-12-14 21:04:43 +0530",
+      "minecraft:elder_guardian": "2026-01-22 21:38:28 +0530",
+      "minecraft:ghast": "2026-01-06 00:16:03 +0530",
+      "minecraft:hoglin": "2026-01-02 21:30:04 +0530",
+      "minecraft:guardian": "2026-01-22 21:22:46 +0530",
+      "minecraft:breeze": "2025-12-26 22:06:35 +0530",
+      "minecraft:vindicator": "2026-01-04 15:39:14 +0530",
+      "minecraft:magma_cube": "2025-12-23 19:48:54 +0530",
+      "minecraft:spider": "2025-12-14 17:27:10 +0530",
+      "minecraft:piglin_brute": "2026-01-15 16:28:38 +0530",
+      "minecraft:creeper": "2025-12-14 21:04:42 +0530",
+      "minecraft:slime": "2026-01-02 00:46:10 +0530",
+      "minecraft:evoker": "2026-01-22 01:34:38 +0530",
       "minecraft:phantom": "2026-01-16 13:50:46 +0530",
       "minecraft:zombified_piglin": "2025-12-23 20:00:52 +0530",
       "minecraft:wither_skeleton": "2026-01-03 02:38:16 +0530",
       "minecraft:husk": "2026-01-17 00:13:09 +0530",
-      "minecraft:ghast": "2026-01-06 00:16:03 +0530",
-      "minecraft:hoglin": "2026-01-02 21:30:04 +0530",
       "minecraft:cave_spider": "2025-12-26 22:12:39 +0530",
       "minecraft:piglin": "2025-12-27 02:53:45 +0530",
-      "minecraft:breeze": "2025-12-26 22:06:35 +0530",
-      "minecraft:vindicator": "2026-01-04 15:39:14 +0530",
       "minecraft:enderman": "2025-12-14 22:09:50 +0530",
       "minecraft:stray": "2025-12-26 22:05:52 +0530",
-      "minecraft:magma_cube": "2025-12-23 19:48:54 +0530",
-      "minecraft:spider": "2025-12-14 17:27:10 +0530",
-      "minecraft:piglin_brute": "2026-01-15 16:28:38 +0530",
       "minecraft:zombie": "2025-12-14 17:11:37 +0530",
-      "minecraft:creeper": "2025-12-14 21:04:42 +0530",
       "minecraft:drowned": "2025-12-14 21:10:35 +0530",
-      "minecraft:zombie_villager": "2025-12-14 22:02:54 +0530",
-      "minecraft:slime": "2026-01-02 00:46:10 +0530",
-      "minecraft:evoker": "2026-01-22 01:34:38 +0530"
+      "minecraft:zombie_villager": "2025-12-14 22:02:54 +0530"
     },
     "done": false
   },
@@ -2119,7 +2121,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-12-20 20:36:51 +0530"
+      "minecraft:cow": "2025-12-20 20:36:51 +0530",
+      "minecraft:nautilus": "2026-01-22 20:53:33 +0530"
     },
     "done": false
   },
@@ -4560,6 +4563,114 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2026-01-22 03:42:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2026-01-22 21:59:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-01-22 21:23:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2026-01-22 21:59:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2026-01-22 21:59:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2026-01-22 21:59:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2026-01-22 21:59:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2026-01-22 21:59:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2026-01-22 21:23:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-01-22 21:23:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2026-01-22 21:59:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2026-01-22 21:59:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2026-01-22 21:59:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2026-01-22 21:59:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2026-01-22 21:59:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2026-01-22 21:36:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2026-01-22 21:59:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2026-01-22 21:59:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2026-01-22 21:59:28 +0530"
     },
     "done": true
   },
