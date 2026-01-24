@@ -1,91 +1,142 @@
-[13:01:58] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[13:02:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[13:02:04] [ServerMain/INFO]: Loaded 1470 recipes
-[13:02:04] [ServerMain/INFO]: Loaded 1584 advancements
-[13:02:05] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[13:02:05] [Server thread/INFO]: Loading properties
-[13:02:05] [Server thread/INFO]: Default game type: SURVIVAL
-[13:02:05] [Server thread/INFO]: Generating keypair
-[13:02:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:02:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:02:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:02:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:02:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:02:05] [Server thread/INFO]: Preparing level "world"
-[13:02:06] [Server thread/INFO]: Loading 0 persistent chunks...
-[13:02:06] [Server thread/INFO]: Preparing spawn area: 100%
-[13:02:06] [Server thread/INFO]: Time elapsed: 22 ms
-[13:02:06] [Server thread/INFO]: Done (0.614s)! For help, type "help"
-[13:02:07] [Server thread/INFO]: BifrostKing[/127.0.0.1:49782] logged in with entity id 405 at (167.18123288020257, 67.0625, -164.95363597211923)
-[13:02:07] [Server thread/INFO]: BifrostKing joined the game
-[13:02:12] [Server thread/INFO]: joe[/10.177.98.87:61328] logged in with entity id 570 at (168.89356714498564, 67.0625, -165.3442227213834)
-[13:02:12] [Server thread/INFO]: joe joined the game
-[13:02:21] [Server thread/INFO]: OrangeBoy[/10.177.98.227:14430] logged in with entity id 597 at (166.5, 67.5625, -168.5)
-[13:02:21] [Server thread/INFO]: OrangeBoy joined the game
-[13:03:13] [Server thread/WARN]: OrangeBoy moved too quickly! 0.06224172810169648,-0.37673561378173304,-10.170010457474632
-[13:03:54] [Server thread/WARN]: OrangeBoy moved too quickly! 1.0773085435352812,1.0244240882136921,9.970591411291167
-[13:05:21] [Server thread/WARN]: OrangeBoy moved too quickly! 6.5913319116873765,0.0,-7.746867195837439
-[13:06:38] [Server thread/WARN]: OrangeBoy moved too quickly! 0.1291546942551065,-10.800511095519902,0.5781599932426218
-[13:06:47] [Server thread/WARN]: OrangeBoy moved too quickly! -0.010925519987807775,-11.832170645297424,0.02044482678758186
-[13:11:58] [Server thread/WARN]: OrangeBoy moved too quickly! 5.559768205551137,0.0,8.33179931046945
-[13:36:01] [Server thread/INFO]: joe lost connection: Disconnected
-[13:36:01] [Server thread/INFO]: joe left the game
-[13:36:16] [Server thread/INFO]: joe[/10.177.98.87:55810] logged in with entity id 13072 at (170.29710531857728, 72.0, -164.69228666523128)
-[13:36:16] [Server thread/INFO]: joe joined the game
-[13:39:40] [Server thread/INFO]: [Not Secure] <OrangeBoy> mansion
-[13:41:35] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
-[13:41:35] [Server thread/INFO]: OrangeBoy left the game
-[14:18:35] [Server thread/INFO]: OrangeBoy[/10.177.98.227:5649] logged in with entity id 27033 at (167.5, 67.1875, -168.5)
-[14:18:35] [Server thread/INFO]: OrangeBoy joined the game
-[14:20:54] [Server thread/WARN]: OrangeBoy moved too quickly! -0.15484791615392623,8.566134302199558,-5.866005667202927
-[14:22:14] [Server thread/WARN]: OrangeBoy moved too quickly! -6.554891840650328,1.5820000490546278,-7.5308276429541365
-[14:26:38] [Server thread/WARN]: OrangeBoy moved too quickly! -0.6241569030285632,-6.0,8.153628347345432
-[14:27:52] [Server thread/WARN]: OrangeBoy moved too quickly! 0.3294420658888555,9.766134349883274,-3.5515212073047735
-[14:41:55] [Server thread/WARN]: OrangeBoy moved too quickly! 6.04304347825115,-0.7391050243758528,-8.2214625647444
-[14:50:06] [Server thread/WARN]: OrangeBoy moved too quickly! 5.4982614039705595,-0.6709083839322929,-8.506869860085004
-[15:00:31] [Server thread/INFO]: [Not Secure] <OrangeBoy> in making
-[15:00:35] [Server thread/INFO]: [Not Secure] <OrangeBoy> me only doing
-[15:00:56] [Server thread/INFO]: [Not Secure] <OrangeBoy> need fence la?
-[15:01:02] [Server thread/INFO]: [Not Secure] <OrangeBoy> so that they dont escape
-[15:02:24] [Server thread/INFO]: [Not Secure] <OrangeBoy> i have respiration 3
-[15:02:39] [Server thread/WARN]: OrangeBoy moved too quickly! 0.13000944291044902,-5.077229850265589,8.691786803415283
-[15:02:57] [Server thread/WARN]: OrangeBoy moved too quickly! -5.1405996462342785,1.0013359791121417,8.771825943137884
-[15:05:24] [Server thread/WARN]: OrangeBoy moved too quickly! 8.585545366216962,-3.4038703283344773,-4.337713232879054
-[15:08:21] [Server thread/WARN]: Nautilus (vehicle of OrangeBoy) moved too quickly! -7.180546764498246,-3.4878408728311214,-6.027963361363419
-[15:08:21] [Server thread/WARN]: Nautilus (vehicle of OrangeBoy) moved too quickly! -7.457880698371298,-3.4878408728311214,-6.000705567606445
-[15:09:03] [Server thread/INFO]: [Not Secure] <OrangeBoy> the way i moved is wrong adhan i was dying
-[15:11:50] [Server thread/INFO]: [Not Secure] <OrangeBoy> i got bro
-[15:11:54] [Server thread/INFO]: [Not Secure] <OrangeBoy> i dont need it
-[15:12:42] [Server thread/INFO]: joe lost connection: Disconnected
-[15:12:42] [Server thread/INFO]: joe left the game
-[15:21:48] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
-[15:21:48] [Server thread/INFO]: OrangeBoy left the game
-[15:58:15] [Server thread/INFO]: Villager dcx['Villager'/51, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.70] died, message: 'Villager was slain by BifrostKing'
-[15:58:17] [Server thread/INFO]: Villager dcx['Villager'/49, l='ServerLevel[PalWorld]', x=146.30, y=60.00, z=-115.70] died, message: 'Villager was slain by BifrostKing'
-[15:58:17] [Server thread/INFO]: Villager dcx['Villager'/47, l='ServerLevel[PalWorld]', x=146.67, y=60.00, z=-115.70] died, message: 'Villager was slain by BifrostKing'
-[15:58:17] [Server thread/INFO]: Villager dcx['Villager'/53, l='ServerLevel[PalWorld]', x=146.30, y=60.23, z=-115.30] died, message: 'Villager was slain by BifrostKing'
-[15:58:18] [Server thread/INFO]: Villager dcx['Villager'/62, l='ServerLevel[PalWorld]', x=146.30, y=60.00, z=-115.70] died, message: 'Villager was slain by BifrostKing'
-[15:58:18] [Server thread/INFO]: Villager dcx['Villager'/17669, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.30] died, message: 'Villager was slain by BifrostKing'
-[15:58:18] [Server thread/INFO]: Villager dcx['Villager'/21849, l='ServerLevel[PalWorld]', x=146.30, y=60.00, z=-115.30] died, message: 'Villager was slain by BifrostKing'
-[15:58:19] [Server thread/INFO]: Villager dcx['Villager'/44045, l='ServerLevel[PalWorld]', x=147.03, y=61.00, z=-115.70] died, message: 'Villager was slain by BifrostKing'
-[15:58:20] [Server thread/INFO]: Villager dcx['Villager'/52, l='ServerLevel[PalWorld]', x=146.30, y=60.00, z=-115.30] died, message: 'Villager was slain by BifrostKing'
-[15:58:21] [Server thread/INFO]: Villager dcx['Villager'/46, l='ServerLevel[PalWorld]', x=146.38, y=60.00, z=-115.70] died, message: 'Villager was slain by BifrostKing'
-[15:58:22] [Server thread/INFO]: Villager dcx['Villager'/3571, l='ServerLevel[PalWorld]', x=146.37, y=60.00, z=-115.58] died, message: 'Villager was slain by BifrostKing'
-[15:58:23] [Server thread/INFO]: Villager dcx['Villager'/54, l='ServerLevel[PalWorld]', x=146.65, y=60.00, z=-115.60] died, message: 'Villager was slain by BifrostKing'
-[15:58:24] [Server thread/INFO]: Villager dcx['Villager'/47937, l='ServerLevel[PalWorld]', x=146.60, y=60.00, z=-115.43] died, message: 'Villager was slain by BifrostKing'
-[15:58:27] [Server thread/INFO]: Villager dcx['Villager'/11381, l='ServerLevel[PalWorld]', x=146.52, y=60.00, z=-115.43] died, message: 'Villager was slain by BifrostKing'
-[15:58:29] [Server thread/INFO]: Villager dcx['Villager'/45, l='ServerLevel[PalWorld]', x=146.70, y=60.54, z=-115.52] died, message: 'Villager was slain by BifrostKing'
-[15:58:33] [Server thread/INFO]: Villager dcx['Villager'/48, l='ServerLevel[PalWorld]', x=147.70, y=61.00, z=-115.30] died, message: 'Villager was slain by BifrostKing'
-[15:58:34] [Server thread/INFO]: Villager dcx['Villager'/44, l='ServerLevel[PalWorld]', x=147.01, y=61.00, z=-115.43] died, message: 'Villager was slain by BifrostKing'
-[15:58:35] [Server thread/INFO]: Villager dcx['Villager'/50, l='ServerLevel[PalWorld]', x=147.70, y=61.00, z=-115.70] died, message: 'Villager was burned to a crisp while fighting BifrostKing'
-[15:58:36] [Server thread/INFO]: Villager dcx['Villager'/30341, l='ServerLevel[PalWorld]', x=147.70, y=61.00, z=-115.30] died, message: 'Villager was slain by BifrostKing'
-[18:07:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=11, y=9, z=-116} is{x=11, y=8, z=-117}
-[18:07:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=11, y=9, z=-116} is{x=11, y=8, z=-117}
-[18:07:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=11, y=9, z=-116} is{x=11, y=8, z=-117}
-[18:07:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=11, y=9, z=-116} is{x=11, y=8, z=-117}
-[18:07:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=11, y=9, z=-116} is{x=11, y=8, z=-117}
-[18:10:56] [Server thread/WARN]: Mismatch in destroy block pos: is{x=31, y=18, z=-132} is{x=30, y=17, z=-132}
-[18:33:23] [Server thread/INFO]: Villager dcx['Villager'/106032, l='ServerLevel[PalWorld]', x=147.00, y=61.00, z=-115.67] died, message: 'Villager was slain by Zombie'
-[18:53:26] [Server thread/INFO]: Villager dcx['Fisherman'/106531, l='ServerLevel[PalWorld]', x=174.40, y=72.00, z=-107.27] died, message: 'Fisherman was slain by Zombie'
-[18:56:50] [Server thread/INFO]: BifrostKing lost connection: Disconnected
-[18:56:50] [Server thread/INFO]: BifrostKing left the game
+[00:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
+[00:32:47] [Server thread/INFO]: joe has made the advancement [Bee Our Guest]
+[01:25:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=30, y=14, z=-137} is{x=30, y=14, z=-136}
+[01:25:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=30, y=14, z=-137} is{x=30, y=14, z=-136}
+[01:25:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=30, y=14, z=-137} is{x=30, y=14, z=-136}
+[01:27:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=39, y=17, z=-168} is{x=38, y=17, z=-168}
+[01:27:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=39, y=17, z=-168} is{x=38, y=17, z=-168}
+[01:27:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=39, y=17, z=-168} is{x=38, y=17, z=-168}
+[01:28:19] [Server thread/WARN]: Mismatch in destroy block pos: is{x=32, y=12, z=-178} is{x=32, y=13, z=-180}
+[01:29:14] [Server thread/WARN]: Mismatch in destroy block pos: is{x=23, y=14, z=-162} is{x=23, y=15, z=-160}
+[01:29:14] [Server thread/WARN]: Mismatch in destroy block pos: is{x=23, y=14, z=-162} is{x=23, y=15, z=-160}
+[01:29:14] [Server thread/WARN]: Mismatch in destroy block pos: is{x=23, y=14, z=-162} is{x=23, y=15, z=-160}
+[01:31:23] [Server thread/WARN]: Mismatch in destroy block pos: is{x=42, y=13, z=-93} is{x=44, y=20, z=-75}
+[01:31:23] [Server thread/WARN]: Mismatch in destroy block pos: is{x=42, y=13, z=-93} is{x=44, y=20, z=-75}
+[01:31:23] [Server thread/WARN]: Mismatch in destroy block pos: is{x=42, y=13, z=-93} is{x=44, y=20, z=-75}
+[01:31:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=42, y=13, z=-93} is{x=44, y=21, z=-76}
+[01:32:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=31, y=21, z=-78} is{x=35, y=20, z=-78}
+[01:32:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=31, y=21, z=-78} is{x=35, y=20, z=-78}
+[01:32:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=31, y=21, z=-78} is{x=35, y=20, z=-78}
+[01:32:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=31, y=21, z=-78} is{x=35, y=20, z=-78}
+[01:32:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=31, y=21, z=-78} is{x=35, y=20, z=-78}
+[01:32:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=31, y=21, z=-78} is{x=35, y=20, z=-78}
+[01:38:15] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3, y=12, z=-35} is{x=4, y=12, z=-35}
+[01:38:15] [Server thread/WARN]: Mismatch in destroy block pos: is{x=3, y=12, z=-35} is{x=4, y=12, z=-35}
+[01:38:18] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=9, z=-39} is{x=0, y=10, z=-38}
+[01:49:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-97, y=20, z=-121} is{x=-94, y=21, z=-120}
+[01:49:38] [Server thread/WARN]: Mismatch in destroy block pos: is{x=177, y=14, z=-161} is{x=177, y=13, z=-160}
+[01:49:38] [Server thread/WARN]: Mismatch in destroy block pos: is{x=177, y=14, z=-161} is{x=177, y=13, z=-160}
+[01:52:19] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-11, y=16, z=-120} is{x=-10, y=17, z=-119}
+[02:09:08] [Server thread/INFO]: joe has completed the challenge [Cover Me in Debris]
+[02:13:51] [Server thread/INFO]: Made joe a server operator
+[02:14:17] [Server thread/INFO]: [joe: Applied enchantment Sharpness IV to BifrostKing's item]
+[02:15:13] [Server thread/INFO]: [joe: Applied enchantment Sharpness V to joe's item]
+[02:15:44] [Server thread/WARN]: Couldn't find profile with name: b
+com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any profile with name b
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
+	at com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfileByName(YggdrasilGameProfileRepository.java:110)
+	at bbu.a(SourceFile:75)
+	at bbu.a(SourceFile:136)
+	at es.a(SourceFile:66)
+	at es.a(SourceFile:32)
+	at aps.a(SourceFile:33)
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73)
+	at hp.a(SourceFile:29)
+	at hp.execute(SourceFile:13)
+	at hk.a(SourceFile:8)
+	at hc.a(SourceFile:8)
+	at hg.a(SourceFile:106)
+	at ee.a(SourceFile:430)
+	at ee.a(SourceFile:362)
+	at ayi.b(SourceFile:1568)
+	at ayi.b(SourceFile:1556)
+	at anq.run(SourceFile:18)
+	at cbr.d(SourceFile:169)
+	at cbv.d(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:948)
+	at net.minecraft.server.MinecraftServer.d(SourceFile:191)
+	at cbr.E(SourceFile:143)
+	at net.minecraft.server.MinecraftServer.bC(SourceFile:930)
+	at net.minecraft.server.MinecraftServer.E(SourceFile:924)
+	at cbr.bN(SourceFile:124)
+	at net.minecraft.server.MinecraftServer.w_(SourceFile:892)
+	at net.minecraft.server.MinecraftServer.A(SourceFile:777)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:301)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:15:44] [Server thread/INFO]: [joe: Made b a server operator]
+[02:15:54] [Server thread/INFO]: [joe: Made BifrostKing a server operator]
+[02:16:57] [Server thread/INFO]: [BifrostKing: Applied enchantment Fire Aspect II to BifrostKing's item]
+[02:17:21] [Server thread/INFO]: [joe: Gave 128 [Emerald] to joe]
+[02:17:50] [Server thread/INFO]: [BifrostKing: Applied enchantment Mending to BifrostKing's item]
+[02:17:59] [Server thread/INFO]: [joe: Applied enchantment Mending to joe's item]
+[02:18:19] [Server thread/INFO]: [joe: Applied enchantment Mending to joe's item]
+[02:18:24] [Server thread/INFO]: [joe: Applied enchantment Mending to joe's item]
+[02:18:52] [Server thread/INFO]: [BifrostKing: Applied enchantment Unbreaking III to BifrostKing's item]
+[02:19:25] [Server thread/INFO]: [joe: Gave 64 [Netherite Upgrade] to BifrostKing]
+[02:20:42] [Server thread/INFO]: [joe: Applied enchantment Unbreaking III to joe's item]
+[02:21:12] [Server thread/INFO]: [joe: Gave 500 experience levels to BifrostKing]
+[02:21:51] [Server thread/INFO]: [BifrostKing: Applied enchantment Sweeping Edge III to BifrostKing's item]
+[02:21:52] [Server thread/INFO]: [joe: Gave 50 experience levels to joe]
+[02:22:20] [Server thread/INFO]: [joe: Made BifrostKing no longer a server operator]
+[02:22:50] [Server thread/INFO]: [joe: Set 80 experience levels on BifrostKing]
+[02:23:25] [Server thread/INFO]: [joe: Applied enchantment Power V to joe's item]
+[02:24:20] [Server thread/INFO]: [joe: Made BifrostKing a server operator]
+[02:24:44] [Server thread/INFO]: [BifrostKing: Applied enchantment Looting III to BifrostKing's item]
+[02:25:23] [Server thread/INFO]: [BifrostKing: Applied enchantment Knockback II to BifrostKing's item]
+[02:26:53] [Server thread/INFO]: [joe: Gave 256 [Rotten Flesh] to BifrostKing]
+[02:30:19] [Server thread/INFO]: BifrostKing has completed the challenge [Cover Me in Debris]
+[02:30:58] [Server thread/INFO]: [joe: Gave 128 [Netherite Ingot] to BifrostKing]
+[02:31:37] [Server thread/INFO]: [joe: Gave 32 [Flow Armor Trim] to BifrostKing]
+[02:33:57] [Server thread/INFO]: [joe: Gave 64 [Diamond] to joe]
+[02:37:59] [Server thread/INFO]: [joe: Gave 20 [Netherite Upgrade] to BifrostKing]
+[02:39:09] [Server thread/INFO]: [joe: Applied enchantment Mending to joe's item]
+[02:39:23] [Server thread/INFO]: [joe: Applied enchantment Protection IV to joe's item]
+[02:39:32] [Server thread/INFO]: [joe: Applied enchantment Feather Falling IV to joe's item]
+[02:39:49] [Server thread/INFO]: [joe: Applied enchantment Mending to joe's item]
+[02:40:12] [Server thread/INFO]: [joe: Applied enchantment Protection IV to joe's item]
+[02:40:40] [Server thread/INFO]: [joe: Applied enchantment Protection IV to joe's item]
+[02:40:43] [Server thread/INFO]: [joe: Applied enchantment Mending to joe's item]
+[02:40:46] [Server thread/INFO]: [BifrostKing: Applied enchantment Protection IV to BifrostKing's item]
+[02:40:48] [Server thread/INFO]: [joe: Applied enchantment Mending to joe's item]
+[02:40:50] [Server thread/INFO]: [joe: Applied enchantment Protection IV to joe's item]
+[02:41:13] [Server thread/INFO]: [BifrostKing: Applied enchantment Mending to BifrostKing's item]
+[02:41:26] [Server thread/INFO]: [BifrostKing: Applied enchantment Aqua Affinity to BifrostKing's item]
+[02:41:28] [Server thread/INFO]: [joe: Applied enchantment Aqua Affinity to joe's item]
+[02:41:45] [Server thread/INFO]: [BifrostKing: Applied enchantment Respiration III to BifrostKing's item]
+[02:41:46] [Server thread/INFO]: [joe: Applied enchantment Respiration III to joe's item]
+[02:42:13] [Server thread/INFO]: [BifrostKing: Applied enchantment Unbreaking III to BifrostKing's item]
+[02:42:25] [Server thread/INFO]: [joe: Applied enchantment Unbreaking III to joe's item]
+[02:42:32] [Server thread/INFO]: [joe: Applied enchantment Unbreaking III to joe's item]
+[02:42:36] [Server thread/INFO]: [joe: Applied enchantment Unbreaking III to joe's item]
+[02:42:39] [Server thread/INFO]: [joe: Applied enchantment Unbreaking III to joe's item]
+[02:43:03] [Server thread/INFO]: [BifrostKing: Applied enchantment Protection III to BifrostKing's item]
+[02:43:25] [Server thread/INFO]: [BifrostKing: Applied enchantment Mending to BifrostKing's item]
+[02:44:32] [Server thread/INFO]: [BifrostKing: Applied enchantment Protection IV to BifrostKing's item]
+[02:44:36] [Server thread/INFO]: [BifrostKing: Applied enchantment Mending to BifrostKing's item]
+[02:44:50] [Server thread/INFO]: [BifrostKing: Applied enchantment Unbreaking III to BifrostKing's item]
+[02:45:47] [Server thread/INFO]: [BifrostKing: Applied enchantment Mending to BifrostKing's item]
+[02:45:49] [Server thread/INFO]: [BifrostKing: Applied enchantment Protection IV to BifrostKing's item]
+[02:45:52] [Server thread/INFO]: [BifrostKing: Applied enchantment Unbreaking III to BifrostKing's item]
+[02:45:55] [Server thread/INFO]: [joe: Applied enchantment Soul Speed III to joe's item]
+[02:46:09] [Server thread/INFO]: [BifrostKing: Applied enchantment Thorns III to BifrostKing's item]
+[02:46:19] [Server thread/INFO]: [BifrostKing: Applied enchantment Swift Sneak III to BifrostKing's item]
+[02:47:02] [Server thread/INFO]: [joe: Applied enchantment Swift Sneak III to joe's item]
+[02:47:05] [Server thread/INFO]: [BifrostKing: Applied enchantment Protection IV to BifrostKing's item]
+[02:47:10] [Server thread/INFO]: [BifrostKing: Applied enchantment Unbreaking III to BifrostKing's item]
+[02:47:19] [Server thread/INFO]: [BifrostKing: Applied enchantment Mending to BifrostKing's item]
+[02:47:32] [Server thread/INFO]: [BifrostKing: Applied enchantment Soul Speed III to BifrostKing's item]
+[02:47:57] [Server thread/INFO]: [BifrostKing: Applied enchantment Depth Strider III to BifrostKing's item]
+[02:48:06] [Server thread/INFO]: [BifrostKing: Applied enchantment Feather Falling IV to BifrostKing's item]
+[02:50:37] [Server thread/INFO]: [BifrostKing: Applied enchantment Power V to BifrostKing's item]
+[02:50:47] [Server thread/INFO]: [joe: Applied enchantment Depth Strider III to joe's item]
+[02:50:53] [Server thread/INFO]: [BifrostKing: Applied enchantment Flame to BifrostKing's item]
+[02:50:58] [Server thread/INFO]: [BifrostKing: Applied enchantment Punch II to BifrostKing's item]
+[02:51:14] [Server thread/INFO]: [BifrostKing: Applied enchantment Unbreaking III to BifrostKing's item]
+[02:51:23] [Server thread/INFO]: [BifrostKing: Applied enchantment Infinity to BifrostKing's item]
+[02:52:32] [Server thread/INFO]: [joe: Made BifrostKing no longer a server operator]
+[02:52:35] [Server thread/INFO]: [joe: Made joe no longer a server operator]
+[02:55:11] [Server thread/INFO]: joe lost connection: Disconnected
+[02:55:11] [Server thread/INFO]: joe left the game
+[03:14:05] [Server thread/INFO]: BifrostKing lost connection: Disconnected
+[03:14:05] [Server thread/INFO]: BifrostKing left the game
