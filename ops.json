@@ -6,8 +6,14 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "236d34d9-2e3a-3d41-8cc0-82b7c3c904ee",
-    "name": "OrangeBoy",
+    "uuid": "020cfc0a-05e0-3b43-bb1a-2b16c11b419d",
+    "name": "BifrostKing",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "473e7dc1-8205-32a3-835a-7cdf14a39430",
+    "name": "joe",
     "level": 4,
     "bypassesPlayerLimit": false
   }

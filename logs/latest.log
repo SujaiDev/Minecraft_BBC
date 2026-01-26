@@ -1,124 +1,96 @@
-[12:00:31] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[12:00:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[12:00:38] [ServerMain/INFO]: Loaded 1470 recipes
-[12:00:38] [ServerMain/INFO]: Loaded 1584 advancements
-[12:00:39] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[12:00:39] [Server thread/INFO]: Loading properties
-[12:00:39] [Server thread/INFO]: Default game type: SURVIVAL
-[12:00:39] [Server thread/INFO]: Generating keypair
-[12:00:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:00:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:00:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:00:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:00:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:00:40] [Server thread/INFO]: Preparing level "world"
-[12:00:40] [Server thread/INFO]: Loading 0 persistent chunks...
-[12:00:40] [Server thread/INFO]: Preparing spawn area: 100%
-[12:00:40] [Server thread/INFO]: Time elapsed: 28 ms
-[12:00:40] [Server thread/INFO]: Done (0.697s)! For help, type "help"
-[12:01:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[12:07:18] [Server thread/INFO]: BifrostKing[/127.0.0.1:53266] logged in with entity id 405 at (168.9218909951609, 67.0625, -166.4131784848086)
-[12:07:18] [Server thread/INFO]: BifrostKing joined the game
-[12:17:21] [Server thread/INFO]: Made BifrostKing a server operator
-[12:18:15] [Server thread/INFO]: [BifrostKing: Applied enchantment Efficiency V to BifrostKing's item]
-[12:18:26] [Server thread/INFO]: [BifrostKing: Applied enchantment Fortune III to BifrostKing's item]
-[12:18:40] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[12:18:40] [Server thread/INFO]: dop<--[HERE]
-[12:18:48] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[12:18:48] [Server thread/INFO]: dop BifrostKing<--[HERE]
-[12:19:12] [Server thread/INFO]: [BifrostKing: Made BifrostKing no longer a server operator]
-[12:30:14] [Server thread/INFO]: OrangeBoy[/10.177.98.227:50534] logged in with entity id 8280 at (188.49056650887402, 70.0, -157.1956495513697)
-[12:30:14] [Server thread/INFO]: OrangeBoy joined the game
-[12:54:20] [Server thread/WARN]: Mismatch in destroy block pos: is{x=197, y=76, z=-164} is{x=196, y=74, z=-166}
-[12:54:20] [Server thread/WARN]: Mismatch in destroy block pos: is{x=196, y=73, z=-166} is{x=196, y=74, z=-166}
-[12:59:00] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
-[12:59:00] [Server thread/INFO]: OrangeBoy left the game
-[13:38:25] [Server thread/INFO]: OrangeBoy[/10.177.98.227:48591] logged in with entity id 33334 at (183.55197322029977, 69.0, -173.12122441922554)
-[13:38:25] [Server thread/INFO]: OrangeBoy joined the game
-[13:51:44] [Server thread/INFO]: BifrostKing lost connection: Disconnected
-[13:51:44] [Server thread/INFO]: BifrostKing left the game
-[13:56:57] [Server thread/INFO]: OrangeBoy lost connection: Timed out
-[13:56:57] [Server thread/INFO]: OrangeBoy left the game
-[13:57:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:22:55] [Server thread/INFO]: BifrostKing[/127.0.0.1:64238] logged in with entity id 40664 at (168.53439799360288, 67.0625, -167.46403855628802)
-[14:22:55] [Server thread/INFO]: BifrostKing joined the game
-[14:29:21] [Server thread/WARN]: Mismatch in destroy block pos: is{x=175, y=74, z=-148} is{x=173, y=71, z=-148}
-[14:29:21] [Server thread/WARN]: Mismatch in destroy block pos: is{x=173, y=70, z=-148} is{x=173, y=71, z=-148}
-[14:33:29] [Server thread/INFO]: OrangeBoy[/10.177.98.227:34110] logged in with entity id 44554 at (1749.0686624511206, 57.5875, 4.5)
-[14:33:29] [Server thread/INFO]: OrangeBoy joined the game
-[14:41:30] [Server thread/INFO]: [Not Secure] <OrangeBoy> call?
-[14:46:51] [Server thread/INFO]: BifrostKing has made the advancement [Oh Shiny]
-[15:14:32] [Server thread/WARN]: OrangeBoy moved too quickly! -4.40277471150992,1.252203340253729,9.069293353251425
-[15:14:44] [Server thread/WARN]: OrangeBoy moved too quickly! -7.412280250265809,0.13090649971452706,6.740911818134492
-[15:16:18] [Server thread/WARN]: OrangeBoy moved too quickly! -0.9387190933343845,5.050525291711132,-8.733137931946914
-[15:19:32] [Server thread/INFO]: Villager dcx['Villager'/54043, l='ServerLevel[PalWorld]', x=147.02, y=61.00, z=-115.30] died, message: 'Villager was slain by Zombie'
-[15:26:16] [Server thread/INFO]: Made OrangeBoy a server operator
-[15:26:21] [Server thread/INFO]: [OrangeBoy: Set own game mode to Creative Mode]
-[15:31:26] [Server thread/INFO]: [OrangeBoy: Set the time to 1000]
-[15:33:14] [Server thread/WARN]: OrangeBoy moved too quickly! 0.281805037622064,0.0,-10.035149132314217
-[15:41:44] [Server thread/INFO]: [OrangeBoy: Set the time to 1000]
-[15:50:52] [Server thread/INFO]: [OrangeBoy: Set the time to 1000]
-[16:00:10] [Server thread/INFO]: [OrangeBoy: Set the time to 1000]
-[16:05:34] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
-[16:05:34] [Server thread/INFO]: OrangeBoy left the game
-[16:05:49] [Server thread/INFO]: OrangeBoy[/10.177.98.227:39353] logged in with entity id 71989 at (232.24186732719608, 77.78406912446813, -189.64852030778565)
-[16:05:49] [Server thread/INFO]: OrangeBoy joined the game
-[16:09:29] [Server thread/INFO]: [OrangeBoy: Set the time to 1000]
-[16:12:52] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
-[16:12:52] [Server thread/INFO]: OrangeBoy left the game
-[16:13:10] [Server thread/INFO]: OrangeBoy[/10.177.98.227:39792] logged in with entity id 74821 at (234.77960842561694, 73.0, -201.69770071678255)
-[16:13:10] [Server thread/INFO]: OrangeBoy joined the game
-[16:14:13] [Server thread/INFO]: [OrangeBoy: Applied enchantment Sharpness V to OrangeBoy's item]
-[16:18:51] [Server thread/INFO]: [OrangeBoy: Set the time to 1000]
-[16:19:08] [Server thread/INFO]: OrangeBoy has completed the challenge [Serious Dedication]
-[16:27:40] [Server thread/INFO]: OrangeBoy lost connection: Timed out
-[16:27:40] [Server thread/INFO]: OrangeBoy left the game
-[16:27:51] [Server thread/INFO]: OrangeBoy[/10.177.98.227:40629] logged in with entity id 79869 at (245.53034052217293, 74.1355108765435, -200.12248623939206)
-[16:27:51] [Server thread/INFO]: OrangeBoy joined the game
-[16:28:04] [Server thread/INFO]: [OrangeBoy: Set the time to 1000]
-[16:33:55] [Server thread/WARN]: OrangeBoy moved too quickly! 1.013737872840153,0.0,-10.198265981066925
-[16:34:11] [Server thread/WARN]: OrangeBoy moved too quickly! -7.237832035347708,0.0,-7.264263665232704
-[16:34:58] [Server thread/WARN]: OrangeBoy moved too quickly! -0.7260022552371765,0.0,-10.37948062176585
-[16:35:43] [Server thread/INFO]: [OrangeBoy: Applied enchantment Efficiency V to OrangeBoy's item]
-[16:36:08] [Server thread/INFO]: [OrangeBoy: Set own game mode to Survival Mode]
-[16:36:13] [Server thread/INFO]: [Not Secure] <OrangeBoy> www
-[16:37:09] [Server thread/INFO]: [OrangeBoy: Set own game mode to Creative Mode]
-[16:37:29] [Server thread/INFO]: [OrangeBoy: Set own game mode to Survival Mode]
-[16:37:45] [Netty NIO IO #19/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
-java.io.IOException: Connection reset by peer
-	at java.base/sun.nio.ch.SocketDispatcher.writev0(Native Method)
-	at java.base/sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:58)
-	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:227)
-	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:158)
-	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:574)
-	at io.netty.channel.socket.nio.NioSocketChannel.doWrite(NioSocketChannel.java:423)
-	at io.netty.channel.AbstractChannel$AbstractUnsafe.flush0(AbstractChannel.java:802)
-	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.forceFlush(AbstractNioChannel.java:411)
-	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:439)
-	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)
-	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)
-	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:571)
-	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:512)
-	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)
-	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
-	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-[16:37:45] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
-[16:37:45] [Server thread/INFO]: OrangeBoy left the game
-[16:38:12] [Server thread/INFO]: OrangeBoy[/10.177.98.227:41177] logged in with entity id 83728 at (160.11497199992652, 79.0, -231.4176821651322)
-[16:38:12] [Server thread/INFO]: OrangeBoy joined the game
-[16:38:23] [Server thread/INFO]: [OrangeBoy: Set own game mode to Creative Mode]
-[16:38:29] [Server thread/INFO]: [OrangeBoy: Set the time to 1000]
-[16:40:41] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
-[16:40:41] [Server thread/INFO]: OrangeBoy left the game
-[16:40:56] [Server thread/INFO]: OrangeBoy[/10.177.98.227:41327] logged in with entity id 84715 at (180.00498969519546, 69.0, -180.57298415782023)
-[16:40:56] [Server thread/INFO]: OrangeBoy joined the game
-[16:43:35] [Server thread/INFO]: OrangeBoy lost connection: Timed out
-[16:43:35] [Server thread/INFO]: OrangeBoy left the game
-[17:30:36] [Server thread/INFO]: Villager dcx['Villager'/54042, l='ServerLevel[PalWorld]', x=146.70, y=60.00, z=-115.70] died, message: 'Villager was slain by Zombie'
-[17:31:12] [Server thread/INFO]: Villager dcx['Villager'/54300, l='ServerLevel[PalWorld]', x=146.30, y=60.00, z=-115.70] died, message: 'Villager was slain by Zombie'
-[17:46:35] [Server thread/INFO]: BifrostKing lost connection: Disconnected
-[17:46:35] [Server thread/INFO]: BifrostKing left the game
-[17:47:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:02:51] [Server thread/INFO]: OrangeBoy has completed the challenge [Cover Me in Debris]
+[00:05:51] [Server thread/WARN]: OrangeBoy moved too quickly! 6.433061306490828,1.1036092609382138,7.711732693101482
+[00:05:58] [Server thread/WARN]: OrangeBoy moved too quickly! 7.373122431277693,1.0,-6.966027130597695
+[00:06:04] [Server thread/WARN]: OrangeBoy moved too quickly! 0.007852230387214831,-11.233119618979785,-0.21544172335373446
+[00:09:57] [Server thread/INFO]: [Not Secure] <OrangeBoy> 362 ~ 1559
+[00:18:57] [Server thread/INFO]: [BifrostKing: Gave 40 [Steak] to BifrostKing]
+[00:22:18] [Server thread/INFO]: [Not Secure] <OrangeBoy> 362 ~ 1559
+[00:24:00] [Server thread/INFO]: [BifrostKing: Set the time to 1000]
+[00:27:25] [Server thread/INFO]: joe lost connection: Disconnected
+[00:27:25] [Server thread/INFO]: joe left the game
+[00:28:21] [Server thread/INFO]: joe[/10.177.98.87:49863] logged in with entity id 39784 at (343.1834889932944, 70.0, 1478.2671197615166)
+[00:28:21] [Server thread/INFO]: joe joined the game
+[00:31:10] [Server thread/INFO]: [BifrostKing: Gave 12 [Eye of Ender] to joe]
+[00:31:52] [Server thread/INFO]: BifrostKing has made the advancement [Eye Spy]
+[00:31:56] [Server thread/INFO]: OrangeBoy has made the advancement [Eye Spy]
+[00:32:28] [Server thread/INFO]: joe has made the advancement [Eye Spy]
+[00:36:18] [Server thread/INFO]: joe has made the advancement [The End?]
+[00:36:19] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[00:36:19] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[00:36:19] [Server thread/INFO]: BifrostKing has made the advancement [The End?]
+[00:36:21] [Server thread/INFO]: OrangeBoy has made the advancement [The End?]
+[00:42:34] [Server thread/INFO]: joe has made the advancement [Free the End]
+[00:42:54] [Server thread/INFO]: OrangeBoy lost connection: Timed out
+[00:42:54] [Server thread/INFO]: OrangeBoy left the game
+[00:43:11] [Server thread/INFO]: OrangeBoy[/10.177.98.227:17309] logged in with entity id 42784 at (-10.915382340689348, 61.0, 4.395375179651108)
+[00:43:11] [Server thread/INFO]: OrangeBoy joined the game
+[00:43:31] [Server thread/INFO]: [BifrostKing: Made joe a server operator]
+[00:43:46] [Server thread/INFO]: [joe: Teleported joe to 362.500000, 70.155942, 1559.500000]
+[00:45:39] [Server thread/INFO]: OrangeBoy has made the advancement [Remote Getaway]
+[00:46:14] [Server thread/INFO]: BifrostKing has reached the goal [The Next Generation]
+[00:46:56] [Server thread/INFO]: joe has made the advancement [Remote Getaway]
+[00:46:57] [Server thread/INFO]: BifrostKing has made the advancement [Remote Getaway]
+[00:47:24] [Server thread/INFO]: [joe: Gave 1 [Netherite Sword] to BifrostKing]
+[00:47:39] [Server thread/INFO]: [joe: Applied enchantment Fire Aspect II to BifrostKing's item]
+[00:48:01] [Server thread/INFO]: [joe: Gave 64 [Eye of Ender] to OrangeBoy]
+[00:48:21] [Server thread/INFO]: [BifrostKing: Applied enchantment Sharpness V to BifrostKing's item]
+[00:48:21] [Server thread/INFO]: [joe: Gave 64 [Ender Pearl] to OrangeBoy]
+[00:48:38] [Server thread/INFO]: [BifrostKing: Applied enchantment Looting III to BifrostKing's item]
+[00:48:55] [Server thread/INFO]: [BifrostKing: Applied enchantment Mending to BifrostKing's item]
+[00:49:05] [Server thread/INFO]: [Not Secure] <joe> 774 -579
+[00:49:08] [Server thread/INFO]: [BifrostKing: Applied enchantment Unbreaking III to BifrostKing's item]
+[00:49:27] [Server thread/INFO]: [BifrostKing: Applied enchantment Sweeping Edge III to BifrostKing's item]
+[00:52:45] [Server thread/INFO]: BifrostKing has made the advancement [The City at the End of the Game]
+[00:52:45] [Server thread/INFO]: joe has made the advancement [The City at the End of the Game]
+[00:53:31] [Server thread/WARN]: BifrostKing moved too quickly! 3.7795725102592996,-31.346509911497208,-2.2459501861246736
+[00:54:27] [Server thread/WARN]: BifrostKing moved too quickly! -6.590315809023764,-5.3690173916260875,-6.646496769694522
+[00:54:59] [Server thread/INFO]: OrangeBoy has made the advancement [The City at the End of the Game]
+[00:59:56] [Server thread/INFO]: OrangeBoy fell out of the world
+[01:00:30] [Server thread/WARN]: joe moved too quickly! 4.51258859072766,-31.928252893509594,1.1640405540364327
+[01:00:37] [Server thread/INFO]: OrangeBoy lost connection: Disconnected
+[01:00:37] [Server thread/INFO]: OrangeBoy left the game
+[01:06:29] [Server thread/WARN]: BifrostKing moved too quickly! 7.942019992775954,-0.2016477713237208,7.94773277682998
+[01:07:36] [Server thread/WARN]: BifrostKing moved too quickly! 7.933224432307725,0.9603059995445591,-6.1370691630140755
+[01:14:40] [Server thread/WARN]: BifrostKing moved too quickly! 5.9222883514507885,-9.896283660596126,-5.819986214975415
+[01:18:10] [Server thread/INFO]: [BifrostKing: Gave 1 [Netherite Pickaxe] to BifrostKing]
+[01:18:21] [Server thread/INFO]: [BifrostKing: Applied enchantment Silk Touch to BifrostKing's item]
+[01:18:36] [Server thread/INFO]: [BifrostKing: Applied enchantment Mending to BifrostKing's item]
+[01:18:51] [Server thread/INFO]: [BifrostKing: Applied enchantment Unbreaking III to BifrostKing's item]
+[01:19:02] [Server thread/INFO]: [BifrostKing: Applied enchantment Efficiency IV to BifrostKing's item]
+[01:21:06] [Server thread/INFO]: BifrostKing has completed the challenge [Great View From Up Here]
+[01:23:06] [Server thread/INFO]: [BifrostKing: Gave 24 [Ender Pearl] to BifrostKing]
+[01:24:07] [Server thread/INFO]: BifrostKing has reached the goal [Sky's the Limit]
+[01:24:14] [Server thread/INFO]: joe has reached the goal [Sky's the Limit]
+[01:25:18] [Server thread/INFO]: [joe: Gave 1 [Crafting Table] to joe]
+[01:29:43] [Server thread/INFO]: [joe: Teleported joe to BifrostKing]
+[01:31:20] [Server thread/INFO]: [joe: Gave 1 [Crafting Table] to joe]
+[01:32:46] [Server thread/INFO]: [joe: Gave 64 [Firework Rocket] to joe]
+[01:33:11] [Server thread/INFO]: joe lost connection: Timed out
+[01:33:11] [Server thread/INFO]: joe left the game
+[01:33:29] [Server thread/INFO]: joe[/10.177.98.87:60645] logged in with entity id 52207 at (-597.4626095468393, 161.0, -1087.285762590503)
+[01:33:29] [Server thread/INFO]: joe joined the game
+[01:33:54] [Server thread/WARN]: joe moved too quickly! -5.120060245182231,-0.6798634208081893,17.738559844543374
+[01:35:45] [Server thread/INFO]: [joe: Gave 1 [Anvil] to BifrostKing]
+[01:35:56] [Server thread/INFO]: [joe: Gave 32 [Phantom Membrane] to BifrostKing]
+[01:36:08] [Server thread/INFO]: [joe: Gave 32 [Phantom Membrane] to joe]
+[01:36:17] [Server thread/INFO]: [joe: Gave 64 [Firework Rocket] to BifrostKing]
+[01:39:13] [Server thread/WARN]: joe moved too quickly! -17.06904931079589,-4.4087487529106255,-6.775311762337424
+[01:39:33] [Server thread/INFO]: [joe: Gave 64 [Firework Rocket] to joe]
+[01:40:58] [Server thread/INFO]: [joe: Gave 64 [Firework Rocket] to BifrostKing]
+[01:41:03] [Server thread/INFO]: [joe: Gave 1 [Anvil] to BifrostKing]
+[01:41:13] [Server thread/WARN]: joe moved too quickly! -6.073497568093899,3.406898878789434,16.68635866034583
+[01:48:43] [Server thread/INFO]: joe lost connection: Disconnected
+[01:48:43] [Server thread/INFO]: joe left the game
+[01:50:22] [Server thread/INFO]: BifrostKing lost connection: Disconnected
+[01:50:22] [Server thread/INFO]: BifrostKing left the game
+[01:51:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:52:06] [Server thread/INFO]: Stopping server
+[01:52:06] [Server thread/INFO]: Saving players
+[01:52:06] [Server thread/INFO]: Saving worlds
+[01:52:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:overworld
+[01:52:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:the_nether
+[01:52:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[PalWorld]'/minecraft:the_end
+[01:52:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:52:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:52:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:52:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
